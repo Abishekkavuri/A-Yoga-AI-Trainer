@@ -60,8 +60,6 @@ To set up the project locally:
 
 ## Screenshots
 
-_Add your four images here:_
-
 ![Screenshot 1](https://github.com/user-attachments/assets/237eb80e-1b13-4379-8fa2-3c619bcb7aca)
 ![Screenshot 2](https://github.com/user-attachments/assets/68f9e77d-8830-483e-867c-90284d3d3061)
 ![Screenshot 3](https://github.com/user-attachments/assets/96b62942-be9b-4091-a126-1c565e934f84)
@@ -85,12 +83,3 @@ Contributions are welcome! To contribute:
    ```bash
    git push origin feature-name
    ```
-5. **Open a Pull Request**.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
----
-
-*Note: This README is a suggested template based on the repository's content and common practices. For more detailed information, please refer to the project's source code and documentation.*
